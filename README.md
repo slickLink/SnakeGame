@@ -1,8 +1,8 @@
 # SnakeGame
 2 player snake game
 ## Getting Started
-*Clone/Download repo
-*Download and install Java 
+* Clone/Download repo
+* Download and install Java 
 
 ### Running Test
 open terminal and compile source code
